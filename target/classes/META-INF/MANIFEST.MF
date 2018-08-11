@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: helloMybaits
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jinxiaolei
+Implementation-Vendor-Id: com.hellojxl
+Build-Jdk: 1.8.0_162
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/helloMybaits
+Created-By: Maven Integration for Eclipse
+
